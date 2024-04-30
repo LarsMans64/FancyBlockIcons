@@ -6,9 +6,11 @@
 
 ## Nameing images
     Naming your images corectly is VERY important, it just keeps everything cleaner.
-    ### Icons
+    
+    Icons
         When naming a icon is a simple as `[BlockName] Icon` i.g: 'GrassBlock Icon', if you update your icon you should add `v[Version Number]` i.g: 'GrassBlock Icon v.2'.
-    ### Resources/Textures
+    
+    Resources/Textures
         If your texture isn't split up just name it its `[BlockName]` i.g: 'GrassBlock'
 
         But if it is split up name it `[BlockName] [Face: Front, Side, Top, Back]`
