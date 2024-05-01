@@ -1,2 +1,9 @@
+## Project Files
 
-/assets/Resources/Miffen Kop/project files
+*.bbmodel
+
+## Random people ignored stuff :moyai:
+
+/assets/Resources/Miffen Kop/project files 
+
+## ^ I don't really think this is needed if i'm excluding all .bbmodel files.
