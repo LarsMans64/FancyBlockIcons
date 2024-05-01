@@ -6,6 +6,8 @@ This is a repository for custom icons based on the icons you see when you have M
 
 If you want to contibute create a fork and create a name-space with your name in 'Icons', You can also create one in 'Resources' if you plan on sharing your textures with the main fork.
 
+You can check the rendering guide [here](/RENDERS.md)
+
 # Naming Images <img src="https://github.com/LarsMans64/FancyBlockIcons/blob/main/assets/Icons/Cubeoidal/chest.png?raw=true" alt="" width="32">
 
 Naming your images corectly is VERY important, it just keeps everything cleaner.
