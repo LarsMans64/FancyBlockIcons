@@ -1,22 +1,21 @@
 # Fancy Block Icons <img src="https://github.com/LarsMans64/FancyBlockIcons/blob/main/assets/Icons/LarsMans/grass_iso.png?raw=true" alt="" width="32">
 
-This is a repository for custom icons based on the icons you see when you have Minecraft open!
+This is a repository for custom icons based on the official Minecraft mini block icons!
+
+# Website <img src="https://github.com/LarsMans64/FancyBlockIcons/blob/main/assets/Icons/Cubeoidal/chest.png?raw=true" alt="" width="32">
+
+To easily view all icons in this repository, visit the [website](https://larsmans.nl/blockicons/).
 
 # How to Contribute <img src="https://github.com/LarsMans64/FancyBlockIcons/blob/main/assets/Icons/LarsMans/crafting_table_iso.png?raw=true" alt="" width="32">
 
-If you want to contibute create a fork and create a name-space with your name in 'Icons', You can also create one in 'Resources' if you plan on sharing your textures with the main fork.
+If you want to contibute create a fork and create a name-space with your name in 'Icons', You can also create one in 'Resources' if you plan on sharing your textures as well.
 
-You can check the rendering guide [here](/RENDERS.md)
-
-## Naming Images <img src="https://github.com/LarsMans64/FancyBlockIcons/blob/main/assets/Icons/Cubeoidal/chest.png?raw=true" alt="" width="30">
-
-Naming your images corectly is VERY important, it just keeps everything cleaner.
+A tutorial for rendering will come later, but you can check the color guide for paint.net [here](/RENDERS.md).
 
 ## Icons <img src="https://github.com/LarsMans64/FancyBlockIcons/blob/main/assets/Icons/LarsMans/amethyst_iso.png?raw=true" alt="" width="30">
 
-The naming of icons should follow this template: `[BlockName] Icon`, for example, `GrassBlock Icon`. If you update your image, you can simply overwrite it. It's nice if your commit message says it's the new version, for example, v2.    
+The naming of icons does not matter that much. If you update an image, you can simply overwrite it. It's nice if your commit message says it's the new version, for example, v2.    
 
 ## Resources/Textures <img src="https://github.com/LarsMans64/FancyBlockIcons/blob/main/assets/Icons/LarsMans/enchanting_table_iso3.png?raw=true" alt="" width="30">
 
-If your texture is only one image, name it `[BlockName]`. For example, `GrassBlock`
-If it's across many different images, name it `[BlockName] [Face: Front, Side, Top, Back]`. For example, `OakLog Face: Side, OakLog Face: Top`
+When naming textures, it's nice if you mention the face of the block, such as `Oak Log Side` or `Amethyst Block Top`
