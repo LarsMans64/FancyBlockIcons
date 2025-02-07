@@ -1,0 +1,48 @@
+minecraft:
+    dirt
+    grass_block
+    bookshelf
+
+    amethyst_block              |       ImXR24          LarsMans
+    barrel                      |       Cubeoidal
+    bedrock                     |       LarsMans
+    bricks                      |       Axl0
+    cake                        |       MiffenKop
+    carved_pumpkin              |       MiffenKop
+    cherry_leaves               |       ImXR24
+    cherry_log                  |       ImXR24
+    chest                       |       Cubeoidal
+    chiseled_bookshelf          |       axialeaa
+    coal_block                  |       Axl0
+    cobblestone                 |       ImXR24
+    crafter                     |       axialeaa
+    crafting_table              |       larsMans
+    crimson_nylium              |       Cubeoidal
+    decorated_pot               |       MiffenKop
+    deepslate_bricks            |       Cubeoidal
+    deepslate_diamond_ore       |       axialeaa        LarsMans
+    deepslate_tiles             |       Cubeoidal
+    diamond_ore                 |       ImXR24
+    dripstone_block             |       Cubeoidal
+    enchanting_table            |       larsMans
+    end_portal                  |       larsMans
+    ender_chest                 |       Cubeoidal
+    flowering_azalea_leaves     |       axialeaa
+    furnace                     |       larsMans
+    gilded_blackstone           |       axialeaa
+    hay_bale                    |       larsMans
+    iron_block                  |       larsMans
+    melon                       |       Cubeoidal
+    mycelium                    |       IcyCrystal
+    netherrack                  |       Cubeoidal
+    noteblock                   |       ommer15
+    oak_planks                  |       ImXR24
+    pumpkin                     |       MiffenKop
+    reinforced_deepslate        |       axialeaa
+    scaffolding                 |       larsMans
+    sculk_catalyst              |       axialeaa        larsMans
+    slime_block                 |       Cubeoidal
+    sniffer_egg                 |       larsMans
+    sponge                      |       MiffenKop
+    tnt                         |       larsMans
+    warped_nylium               |       Cubeoidal
