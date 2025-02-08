@@ -37,6 +37,7 @@ minecraft:
     netherrack                  |       Cubeoidal
     noteblock                   |       ommer15
     oak_planks                  |       ImXR24
+    pale_oak_log                |       MiffenKop
     pumpkin                     |       MiffenKop
     reinforced_deepslate        |       axialeaa
     scaffolding                 |       larsMans
