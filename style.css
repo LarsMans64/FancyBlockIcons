@@ -1,0 +1,100 @@
+@font-face {
+  font-family: "Monocraft";
+  src: url("https://cdn.jsdelivr.net/gh/IdreesInc/Monocraft@main/dist/Monocraft-ttf/Monocraft.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+* {
+    font-family: "Monocraft";
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Opencraft, sans-serif;
+    background: #272c34;
+    color: #ddf;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 1rem 2rem;
+    background: #222;
+    color: white;
+}
+
+.title {
+    font-size: 1.5rem;
+}
+
+.nav-tabs {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.nav-tab {
+    border: none;
+    border-radius: 6px;
+    padding: 0.7rem 1rem;
+
+    background: transparent;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+
+    transition: background 0.2s ease;
+}
+
+.nav-tab:hover,
+.nav-tab.active {
+    background: #4f46e5;
+}
+
+.gallery-section {
+    max-width: 75%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.gallery-section h2 {
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+}
+
+.gallery {
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1.5rem;
+
+    img {
+        display: block;
+        /* width: 100%; */
+        height: 150px;
+        object-fit: cover;
+    }
+
+    img:hover {
+        transform: translateY(-5px);
+    }
+}
+
+.gallery-section {
+    overflow: hidden;
+    border-radius: 10px;
+    background: rgb(66, 112, 104);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    transition: transform 0.2s ease;
+    padding: 5px;
+}
